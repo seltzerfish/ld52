@@ -1,0 +1,47 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 8
+        },
+        "main.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 279.33333333333337,
+                "y": 154.66666666666669
+            }
+        },
+        "main.tmx#eliz": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 5.5
+        },
+        "main.tmx#obstacles": {
+            "scaleInEditor": 5.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/conner/git/ld52/public/tiles",
+    "last.imagePath": "C:/Users/conner/git/ld52/public/tiles",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "main.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "main.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
